@@ -15,6 +15,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".pages.ScheduleActivity" />
+        <activity android:name=".pages.ContactActivity" />
+        <activity android:name=".pages.AboutActivity" />
+        <activity android:name=".pages.InfoActivity" />
+        <activity android:name=".pages.MapActivity" />
+        <activity android:name=".pages.HelpActivity"></activity>
     </application>
 
 </manifest>
